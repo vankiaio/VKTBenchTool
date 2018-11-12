@@ -65,9 +65,9 @@ Just using this command to install:
 
 **Any questions pls join our official Telegram Group below**
 
-> 中文群：https://t.me/vankia chainChatCN
+> 中文群：https://t.me/VKT_CH 万加链交流社区 
 
-> ENGLISH GROUP：https://t.me/vankia chainChat
+> ENGLISH GROUP：https://t.me/vankia Vankia News
 
 
 <h2 id="3">Functions</h2>
@@ -107,7 +107,7 @@ You can refer to [Tutorial eosio token Contract](https://github.com/EOSIO/eos/wi
 <h2 id="4">About vankiaio</h2>
 
 
-As the world’s first application built on an VKT ecosphere, vankiaio needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens of billions of dollars valuation market.
+As the world’s first application built on an VKT ecosphere, vankiaio needs to meet the demands of the IoT PlatForm ecosystem by efficiently linking blockchain technology services with various real-life scenarios, thereby delving into this immense tens of billions of dollars valuation market in the future.
 
 
 As a decentralized Oracle technology platform based on the VKT platform, the autonomous Proof-of-Reputation & Deposit mechanism is adopted and used as a fundamental service for other blockchain applications.In addition to Oracle services that provide real-world data to the blockchain, Oracle services that provide cross-chain data are also offered. Given that vankiaio can accomplish the functions of several prediction market applications, such as Augur and Gnosis, vankiaio can also support smart contract businesses that require high-frequency access to outside data in certain scenarios, such as Robo-Advisor.
