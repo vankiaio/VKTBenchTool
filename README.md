@@ -48,9 +48,9 @@ Just using this command to install:
 |Version|MD5|
 |------|---|
 |[WINDOWS_v1.0(compliant with vkt1.3.2)](https://github.com/vankiaio/VKTBenchTool/releases/download/v1.0/VKTBenchTool.zip)|d805fc24f12c510bc70fbd7a03508789|
-|[UBUNTU_v1.0(compliant with vkt1.3.2)](https://github.com/vankiaio/VKTBenchTool/releases/download/v1.0/VKTBenchTool.zip)|d805fc24f12c510bc70fbd7a03508789|
+|[UBUNTU_v1.0(compliant with vkt1.3.2)](https://github.com/vankiaio/VKTBenchTool/releases/download/v1.0/VKTBenchTool.tgz)|a4773c36a92c150a3bdb03a6e3526a5e|
 
->For Ubuntu: Tested on Ubuntu 16.04 x64, you should `chmod +x start.sh`, then use `./start.sh` .
+>For Ubuntu: Tested on Ubuntu 18.04 x64, you should `chmod +x VKTBenchTool`, then use `./VKTBenchTool` .
 
 **DEPENDENCYS:**
 
