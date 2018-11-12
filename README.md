@@ -47,10 +47,8 @@ Just using this command to install:
 
 |Version|MD5|
 |------|---|
-|[WINDOWS_v2.0(compliant with dawn-v4.0.0)](https://github.com/vankiaio/VKTBenchTool/releases/download/dawn-4.0/EOSBenchTool_Windows_Release_Dawn4.zip)|a4d46c5902d10991e241732bf3b20f28|
-|[UBUNTU_v2.0(compliant with dawn-v4.0.0)](https://github.com/vankiaio/VKTBenchTool/releases/download/dawn-4.0/EOSBenchTool_Ubuntu_Release_Dawn4.zip)|f4704058a726422bb53cbb0207c7b268|
-|[WINDOWS_v1.0(compliant with DAWN-2018-04-27-ALPHA)](https://github.com/vankiaio/VKTBenchTool/releases/download/1.0/EOSBenchTool_Windows_Release.zip)|eec548fc2d760e65bed9c0c508dd6e92|
-|[UBUNTU_v1.0(compliant with DAWN-2018-04-27-ALPHA)](https://github.com/vankiaio/VKTBenchTool/releases/download/1.0/EOSBenchTool_Ubuntu_Release.zip)|b9eb6dc0c8e99eb6b9d3f8e7cf605111|
+|[WINDOWS_v1.0(compliant with vkt1.3.2)](https://github.com/vankiaio/VKTBenchTool/releases/download/v1.0/VKTBenchTool.zip)|d805fc24f12c510bc70fbd7a03508789|
+|[UBUNTU_v1.0(compliant with vkt1.3.2)](https://github.com/vankiaio/VKTBenchTool/releases/download/v1.0/VKTBenchTool.zip)|d805fc24f12c510bc70fbd7a03508789|
 
 >For Ubuntu: Tested on Ubuntu 16.04 x64, you should `chmod +x start.sh`, then use `./start.sh` .
 
