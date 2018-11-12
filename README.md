@@ -1,7 +1,7 @@
 # About
 
 
-**VKTBenchTool** is a PC cross-platform, VKT pressure testing tool, which is developed by [vankiaio.io](https://vankia chain.io).
+**VKTBenchTool** is a PC cross-platform, VKTChain pressure testing tool, which is developed by [vankiaio.io](https://www.vankia.io).
 
 ------------------------------
 
@@ -17,7 +17,7 @@
 <h2 id="1">Overview</h2>
 
 
-The VKTBenchTool is a VKT pressure testing tool.
+The VKTBenchTool is a VKTChain pressure testing tool.
 
 VKTBenchTool prepares a batch of transactions to save the client's packaging, signature time, then use `push_transactions` to sends transactions to VKT node, using limited clients to maximize the pressure test on the server!
 
